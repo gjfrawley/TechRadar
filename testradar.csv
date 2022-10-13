@@ -4,5 +4,5 @@ Definition of Production Readiness,hold,techniques,TRUE,Technique to support tea
 On Call Support Rotation for Product Teams,hold,techniques,TRUE,Work on a support rotation that would enable architects to focus on architecture tasks with out the cognitive load that comes with context switching to support of teams
 2 week Peer Programing FTE Program,assess,techniques,TRUE,program to up-skill FTE developers on architecture knowledge in order to spread ownership and support options
 Confluence,assess,tools,TRUE,Mature documentation platform
-placeholder,hold,languages & framework,True,generate quadrant
-placeholder2,hold,platforms,True,generate quadrant
+placeholder,hold,languages & framework,TRUE,generate quadrant
+placeholder2,hold,platforms,TRUE,generate quadrant
