@@ -1,0 +1,6 @@
+name,ring,quadrant,isNew,description
+Single Team Remote Wall,adopt,techniques,TRUE,"A single team remote wall is a simple technique to reintroduce the team wall virtually."
+Definition of Production Readiness,hold,techniques,TRUE,"Technique to support teams in assessing and preparing the operational readiness of new services."
+"On Call" Support for Product Teams,hold,techniques,TRUE,"Work on a support rotation that would enable architects to focus on architecture tasks with out the cognitive load that comes with context switching to support of teams"
+Confluence,assess,platforms,TRUE,"Mature documentation platform"
+2 week Peer Programing FTE Program, assess, techniques,TRUE,"program to up-skill FTE developers on architecture knowledge in order to spread ownership and support options"
